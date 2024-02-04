@@ -62,7 +62,7 @@
     "font-awesome": "~4.7.0",
     "fuse.js": "^3.4.5",
     "html2canvas": "^1.0.0-rc.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-migrate": "~3.0.0",
     "jquery.fancytree": "^2.31.0",
     "jqueryui": "~1.11.1",
